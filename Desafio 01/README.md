@@ -5,9 +5,9 @@
 
 ## 🚩 Sobre o Desafio
 
-Planejar seus estudos.
+Planejando os estudos.
 
-Para isso precisavamos criar um cronograma de estudos que se adpte ao seu tempo e ritmo. 
+O desafio consistia em criar um cronograma de estudos que se adpte ao seu tempo e ritmo. 
 
 Definindo horário de estudos, criando tarefas que estarão atreladas a um calendário, para se manter com foco e disciplina, alinhado com seus objetivos !
 
